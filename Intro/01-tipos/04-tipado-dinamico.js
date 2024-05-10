@@ -3,7 +3,7 @@ let nombre = "Hola mundo";
 let verdadero = true;
 let undef;
 let nula = null;
-//nombre = 53;
+nombre = 53;
 //type of -> para averiguar tipo
 console.log(typeof numero);
 console.log(typeof nombre);
